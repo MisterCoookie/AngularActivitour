@@ -1,0 +1,53 @@
+/* Empty. Add your own CSS if you like */
+.flex{
+    display: flex;
+}
+.row{
+    flex-direction: row;
+}
+.content-space-around{
+    justify-content: space-around;
+}
+
+.content-space-between{
+    justify-content: space-between;
+}
+.content-center{
+    justify-content: center;
+}
+
+.h100{
+    height: 100%;
+}
+.w25{
+    width: 25%;
+}
+.w20{
+    width: 20%;
+}
+.w15{
+    width: 15%;
+}
+.w10{
+    width: 10%;
+}
+
+.m0{
+    margin: 0px;
+}
+
+.color-w{
+    color: white;
+}
+
+
+.align-center{
+    text-align: center;
+}
+
+:root{
+    /* --Gryffindor-color: #9f2226;
+    --HufflePuff-color:
+    --Slytherin-color:
+    --RavenClaw-color: */
+}
